@@ -3,8 +3,8 @@ Testowy RMarkdown
 Wojciech Supko
 4 lutego 2018
 
-Load neccessary libraries
--------------------------
+Load necessary libraries
+------------------------
 
 ``` r
 library(data.table)

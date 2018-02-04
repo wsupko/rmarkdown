@@ -5,15 +5,13 @@ date: "4 lutego 2018"
 output: github_document
 ---
 
-## Load neccessary libraries
+## Load necessary libraries
 
 ```{r }
 library(data.table)
 library(ggplot2)
 
 ```
-
-
 
 ## Data manipulation 
 
